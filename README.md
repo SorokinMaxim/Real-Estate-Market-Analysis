@@ -86,7 +86,7 @@ This section explains the coded fields and abbreviations used throughout the ana
 
 **Page 1 — Main Page** 
 
-Screenshot placeholder
+<img width="1282" height="722" alt="Main Page" src="https://github.com/user-attachments/assets/ea9bbcdc-4836-4612-81b5-75681fbc45ea" />
 
 Answers core market questions:
 
@@ -98,7 +98,7 @@ Answers core market questions:
 
 **Page 2 — Drill-Through Page (Neighborhood Detail)**
 
-Screenshot placeholder
+<img width="1277" height="717" alt="Drill Through Page" src="https://github.com/user-attachments/assets/1156cbe4-083e-40bc-a7be-d4c5eb19cdbd" />
 
 Drilling into a neighborhood reveals what actually drives price within that market:
 
